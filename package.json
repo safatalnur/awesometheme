@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/safatalnur/safattheme/issues"
   },
-  "homepage": "https://github.com/safatalnur/safattheme#readme"
+  "homepage": "https://github.com/safatalnur/safattheme#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
